@@ -1,18 +1,12 @@
-## Getting Started
+# Tic-Tac-Toe Game with AI
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple Tic-Tac-Toe game developed in Java with an AI opponent. 
+The game allows the player to choose between 'X' or 'O' and features
+and features intelligent AI that uses the Minimax algorithm for 
+optimal moves
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Features
+- Player vs AI functionality
+- AI uses Minimax algorithm for decision-making
+- Simple graphical user interface with buttons
+- Option to choose between 'X' or 'O' as the player's symbol
